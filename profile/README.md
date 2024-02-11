@@ -41,6 +41,6 @@ git push origin sua-nova-branch
 ## Contato
 Para mais informações sobre a disciplina de Tecnologias e Programação Integrada:
 
-E-mail: contato@unisagrado.edu.br
-LinkedIn: UNISAGRADO Oficial
-Participe dos nossos projetos no GitHub e contribua para a inovação e aprendizado colaborativo na UNISAGRADO!
+- E-mail: contato@unisagrado.edu.br
+- LinkedIn: UNISAGRADO Oficial
+- Participe dos nossos projetos no GitHub e contribua para a inovação e aprendizado colaborativo na UNISAGRADO!
